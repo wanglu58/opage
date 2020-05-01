@@ -54,10 +54,5 @@ cd ./dist/
 ```
 
 我把这些文件放到了我的群晖当中
-![图1.png][1]
+
 直接浏览器输入群晖IP地址，就进入到了导航页！ 安装导航页完成！
-![图2.png][2]
-
-
-[1]: https://www.xkblogs.com/usr/uploads/2020/04/2693023232.png
-[2]: https://www.xkblogs.com/usr/uploads/2020/04/1970665077.png
