@@ -269,7 +269,7 @@
       </ul>
 
       <p class="copyright">
-        © 2020 <a href="https://www.xkblogs.com/" target="_blank">Timmy</a>
+        © 2021 <a href="https://www.xkblogs.com/" target="_blank">Timmy</a>
       </p>
   </div>
 
@@ -456,22 +456,22 @@ if (!Store.getCookie('visited')) {
             "icon": require('./assets/img/icons/airlogo.png')
         },
         {
-            "url": "http://wanglu.iask.in:777",
+            "url": "http://wanglu.cloud:777",
             "title": "音乐播放器",
             "icon": require('./assets/img/icons/music.jpg')
         },
         {
-            "url": "http://xkblogs.com:58888/krlinux",
+            "url": "http://xkblogs.com:58888/uslinux",
             "title": "宝塔面板",
             "icon": require('./assets/img/icons/BT.png')
         },
         {
-            "url": "https://wanglu.iask.in:8443",
+            "url": "https://wanglu.cloud:8443",
             "title": "路由器管理",
             "icon": require('./assets/img/icons/router.png')
         },
         {
-            "url": "http://wanglu.iask.in:5000",
+            "url": "https://wanglu.cloud:5001",
             "title": "群辉Nas",
             "icon": require('./assets/img/icons/nas.png')
         },
@@ -506,7 +506,7 @@ if (!Store.getCookie('visited')) {
             "icon": require('./assets/img/icons/zhujiceping.jpg')
         },
          {
-            "url": "http://wanglu.iask.in:8283/owdl/index.html",
+            "url": "http://wanglu.cloud:8283/owdl/index.html",
             "title": "远程下载",
             "icon": require('./assets/img/icons/thunder.png')
         },
