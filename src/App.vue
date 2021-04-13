@@ -513,7 +513,7 @@ if (!Store.getCookie('visited')) {
         {
             "url": "http://fulibus.net/",
             "title": "论坛",
-            "icon": require('./assets/img/icons/fuli.png')
+            "icon": require('./assets/img/icons/fuli.jpg')
         },
         {
             "url": "https://www.zhujiceping.com/",
