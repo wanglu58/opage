@@ -444,7 +444,7 @@ if (!Store.getCookie('visited')) {
       //  "url": "http://douban.com/",
       //  "title": "豆瓣",
       //  "icon": require('./assets/img/icons/douban.svg')
-      // }, 
+      // },
         {
             "url": "https://www.xkblogs.com/",
             "title": "星空博客",
@@ -461,7 +461,7 @@ if (!Store.getCookie('visited')) {
             "icon": require('./assets/img/icons/music.jpg')
         },
         {
-            "url": "http://xkblogs.com:58888/uslinux",
+            "url": "http://51.222.103.56:58888/calinux",
             "title": "宝塔面板",
             "icon": require('./assets/img/icons/BT.png')
         },
@@ -480,6 +480,21 @@ if (!Store.getCookie('visited')) {
             "title": "个人云盘",
             "icon": require('./assets/img/icons/zdir.png')
         },
+         {
+            "url": "https://www.smzdm.com/",
+            "title": "什么值得买",
+            "icon": require('./assets/img/icons/what.png')
+        },
+        {
+            "url": "https://www.douyu.com/",
+            "title": "斗鱼",
+            "icon": require('./assets/img/icons/douyu.png')
+        },
+        {
+            "url": "https://www.bilibili.com/",
+            "title": "哔哩哔哩",
+            "icon": require('./assets/img/icons/bilibili.png')
+        },
         {
             "url": "https://www.netflix.com/",
             "title": "Netflix",
@@ -494,11 +509,6 @@ if (!Store.getCookie('visited')) {
             "url": "https://www.52pojie.cn/",
             "title": "吾爱破解",
             "icon": require('./assets/img/icons/pojie.png')
-        },
-        {
-            "url": "https://www.smzdm.com/",
-            "title": "什么值得买",
-            "icon": require('./assets/img/icons/what.png')
         },
         {
             "url": "http://fulibus.net/",
@@ -527,13 +537,17 @@ if (!Store.getCookie('visited')) {
             "url": "http://douban.com/",
             "title": "豆瓣",
             "icon": require('./assets/img/icons/douban.svg')
-        }, 
+        },
         {
             "url": "https://zhihu.com/",
             "title": "知乎",
             "icon": require('./assets/img/icons/zhihu.svg')
-        }
-        
+        },
+        {
+            "url": "http://192.168.10.201/",
+            "title": "GitLab",
+            "icon": require('./assets/img/icons/gitlab.svg')
+        },
     ])
   }
   if(Store.fetch_todo().length == 0){
