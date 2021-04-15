@@ -523,7 +523,7 @@ if (!Store.getCookie('visited')) {
          {
             "url": "http://wanglu.cloud:8283/owdl/index.html",
             "title": "远程下载",
-            "icon": require('./assets/img/icons/wanwu.ico')
+            "icon": require('./assets/img/icons/wanwu.png')
         },
          {
             "url": "https://taobao.com/",
