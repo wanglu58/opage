@@ -286,14 +286,14 @@ $(document).ready(function() {
     Store.setCookie("cityid", $(".area").val(), 365);
   });
   // City select
-  $.cxSelect.defaults.url = "./static/json/NationalUrbanData.min.json";
-  $("#cities").cxSelect({
-    selects : ["province", "city", "area"],
-    nodata : "none",
-    jsonName : "name",
-    jsonValue : "code",
-    jsonSub : "sublist"
-  });
+  // $.cxSelect.defaults.url = "./static/json/NationalUrbanData.min.json";
+  // $("#cities").cxSelect({
+  //   selects : ["province", "city", "area"],
+  //   nodata : "none",
+  //   jsonName : "name",
+  //   jsonValue : "code",
+  //   jsonSub : "sublist"
+  // });
 
   // Time
   function getDate(addDayCount) {
