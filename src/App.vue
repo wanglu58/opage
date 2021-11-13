@@ -451,7 +451,7 @@ if (!Store.getCookie('visited')) {
             "icon": require('./assets/img/icons/xkblogs.jpg')
         },
         {
-            "url": "https://www.xkv2ray.com/",
+            "url": "http://www.xkv2ray.net/",
             "title": "星空机场",
             "icon": require('./assets/img/icons/airlogo.png')
         },
