@@ -269,7 +269,7 @@
       </ul>
 
       <p class="copyright">
-        © 2021 <a href="https://www.xkblogs.com/" target="_blank">Timmy</a>
+        © 2022 <a href="https://www.xkblogs.com/" target="_blank">Timmy</a>
       </p>
   </div>
 
